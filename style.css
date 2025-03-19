@@ -144,7 +144,7 @@ nav a:nth-child(2){
     }
 
     100%{
-        margin-left: -102%;
+        margin-left: -100%;
     }
 }
 
@@ -303,7 +303,6 @@ background-image: url(./assets/Part-3/655d42c6b2d0d8e846bcc652_jasmin-chew-txy8A
 
 #part-4{
     width: 100%;
-    height: 150vh;
     background-color: #000;
     color: #fff;
 }
@@ -312,7 +311,6 @@ background-image: url(./assets/Part-3/655d42c6b2d0d8e846bcc652_jasmin-chew-txy8A
     padding: 50px 50px;
     display: flex;
     width: 100%;
-    height: 100vh;
     padding: 20px;
 
 
@@ -320,7 +318,6 @@ background-image: url(./assets/Part-3/655d42c6b2d0d8e846bcc652_jasmin-chew-txy8A
 
 .left-content-4{
     width: 50%;
-    height: 100%;
     border-right: 2px solid #505050;
     
     
@@ -329,7 +326,6 @@ background-image: url(./assets/Part-3/655d42c6b2d0d8e846bcc652_jasmin-chew-txy8A
 .right-content-4{
     padding-left: 70px;
     width: 50%;
-    height: 100%;
     
 }
 
